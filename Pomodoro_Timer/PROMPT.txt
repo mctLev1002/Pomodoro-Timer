@@ -1,0 +1,5 @@
+PROMPT
+
+RE: Arduino Programming
+Prompt: Give me the firmware architecture of pomodoro timer because
+I want to build it in Arduino uno

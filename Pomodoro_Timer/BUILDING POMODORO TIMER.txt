@@ -1,0 +1,59 @@
+Topic: BUILDIG POMODORO TIMER USING ARDUINO
+
+Site: SCIENCE BUDDIES @YT
+
+Link: https://youtu.be/xf4Bnm8edAg?si=P-44LoLEg1UPWe9h
+
+Website: https://www.sciencebuddies.org/science-fair-projects/project-ideas/Elec_p099/electricity-electronics/pomodoro-study-clock?ytid=xf4Bnm8edAg&ytsrc=description
+
+
+Description: 
+	Make your own customizable Pomodoro clock with an Arduino in this fun project! 
+A parts list, circuit diagram, and example code are all available on the Science Buddies
+
+
+Objective: Design and build a customized Pomodoro timer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Others: Science Buddies also hosts a library of instructions for over 1,500 other hands-on science projects, lesson plans, and fun activities for K-12 parents, students, and teachers!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
